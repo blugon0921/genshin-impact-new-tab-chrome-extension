@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Customizable New Tab",
+  "name": "Genshin Impact New Tab",
   "version": "1.0",
-  "description": "Customizes your new tab",
+  "description": "Genshin Impact new tab",
   "chrome_url_overrides" : {
     "newtab": "tab.html"
   }
